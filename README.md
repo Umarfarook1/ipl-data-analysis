@@ -9,6 +9,8 @@
 ![imbalanced-learn](https://img.shields.io/badge/imbalanced--learn-SMOTE-2C7BB6)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+**[Read the notebook rendered in nbviewer](https://nbviewer.org/github/Umarfarook1/ipl-data-analysis/blob/main/notebook.ipynb)** — no clone needed.
+
 This is a single, narrative notebook written the way a senior data scientist would hand work to a cricket franchise: eleven business questions, each finishing with what it actually means for the team, and a closing executive summary the Head of Cricket Operations can take into pre-season planning. The headline is not a flashy accuracy number. It is the discipline: chronologically computed features with no leakage, three independent methods converging on the same toss heuristic, and an honest account of exactly where match-level data stops being useful.
 
 ## Hero result: teams cluster cleanly by venue familiarity, not just raw win rate
